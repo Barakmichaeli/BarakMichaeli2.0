@@ -15,7 +15,7 @@ class App extends Component {
                     <b>Shift supervisor</b> - managing group of 10 to 20 soldiers in a daily manner and conducting emergency
                     situations in the airport.  <br/><br/>
                     Own the <b>highest certification</b>  in the field. <br/><br/>
-                    Highly intensive work during the day. <br/><br/>
+                    Highly <b>intensive</b> work during the day. <br/><br/>
                     Responsible person for the <b>airport safety</b> and safety events investigation – Communication with
                     outside bodies and reports distribution. <br/><br/>
                     Responsible person for the <b>unit guidance</b> - Implementing new regulations.<br/><br/>
