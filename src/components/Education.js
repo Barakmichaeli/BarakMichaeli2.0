@@ -7,7 +7,7 @@ import React, {Component} from 'react';
 export default class Experience extends Component {
 
     generateGrids() {
-        let arr = ["Advanced Java","Operating Systems", "Algorithems",
+        let arr = ["Advanced Java","Operating Systems", "Algorithems" , "Machine Learning",
             "Data Structures", "Web Development", "C Programming"];
         return arr.map((str) => {
             return (
@@ -23,7 +23,7 @@ export default class Experience extends Component {
         return (
             <div className="education" id="education">
                 <div className="education-header">
-                    <h1>Computer science IDC Hertzliya</h1>
+                    <h1>Computer science IDC Hertzliya (2015-Today)</h1>
                 </div>
                 <div className="grids">
                     {this.generateGrids()}
