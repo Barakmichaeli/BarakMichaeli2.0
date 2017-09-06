@@ -14,7 +14,6 @@ export default class Experience extends Component {
                 <div className="box">
                     <h1>{str}</h1>
                 </div>
-
             )
         })
     }
