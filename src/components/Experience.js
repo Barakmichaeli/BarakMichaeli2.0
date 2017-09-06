@@ -10,7 +10,7 @@ class App extends Component {
         let divs = [];
         divs.push(
             <div className="controller box">
-                <h1>Air Traffic Controller</h1>
+                <h1>Air Traffic Controller 2011-2014</h1>
                 <p>
                     <b>Shift supervisor</b> - managing group of 10 to 20 soldiers in a daily manner and conducting emergency
                     situations in the airport.  <br/><br/>
@@ -20,7 +20,7 @@ class App extends Component {
                     outside bodies and reports distribution. <br/><br/>
                     Responsible person for the <b>unit guidance</b> - Implementing new regulations.<br/><br/>
 
-                    <u>Achievements:</u> <br/>
+                    <b><u>Achievements:</u></b> <br/>
                     o Certificate of excellence for achievements in the safety field. <br/>
                     o Certificate of excellence for improving the guidance in the unit.
                 </p>
@@ -28,7 +28,7 @@ class App extends Component {
 
         divs.push(
             <div className="bartender box">
-                <h1>Bartender</h1>
+                <h1>Bartender 2015</h1>
             </div>);
 
         return divs;

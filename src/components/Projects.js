@@ -13,7 +13,7 @@ export default class  Projects extends Component {
         return (
             <div className="projects" id="projects">
                 <h1><u>Personal Projects</u></h1>
-                <h3>I am proud to show you some of my personal projects, this is what i love to do.</h3>
+                <h3>I am proud to show you some of my projects, this is what i love to do.</h3>
 
                 <div className="radioStream">
                     <div className="radio-info">
