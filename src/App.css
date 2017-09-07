@@ -148,7 +148,7 @@ a {
     position: absolute;
     z-index: 100;
     display: flex;
-    top: 40%;
+    top: 25%;
     left: 32%;
     flex-flow: row;
 }
