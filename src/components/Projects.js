@@ -7,7 +7,7 @@
 import React, {Component} from 'react';
 
 
-export default class  Projects extends Component {
+export default class Projects extends Component {
 
     render() {
         return (
@@ -25,7 +25,8 @@ export default class  Projects extends Component {
                 <div className="dashboard">
                     <div className="dash-info">
                         <h1>Dashboard</h1>
-                        <button><a href="https://spa-dashboard-example.herokuapp.com/" target="_blank">VIEW PROJECT</a></button>
+                        <button><a href="https://spa-dashboard-example.herokuapp.com/" target="_blank">VIEW PROJECT</a>
+                        </button>
                     </div>
                 </div>
 
